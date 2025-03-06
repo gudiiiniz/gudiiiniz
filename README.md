@@ -18,4 +18,4 @@
 </div>
 
 ##
-<h1 align="center"><img src="./jumbeef.gif" /></h1>
+<h1 align="center"><img width="700px" src="./jumbeef.gif" /></h1>
